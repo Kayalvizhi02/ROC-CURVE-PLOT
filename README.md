@@ -25,12 +25,15 @@ Uses of ROC Curve :
 4. Fit the Logistic Regression Model
 5. Model Diagnostics
 
+<br>
+<br>
+
 ## Program:
-
-### Program to plot Receiver Operating Characteristic [ROC] Curve.
-### Developed by   : KAYALVIZHI M
-### RegisterNumber : 212220230024
-
+```
+Program to plot Receiver Operating Characteristic [ROC] Curve.
+Developed by   : KAYALVIZHI M
+RegisterNumber : 212220230024
+```
 ```python3
 
 
@@ -75,6 +78,8 @@ plt.show()
 
 ```
 
+<br>
+<br>
 
 ## Output:
 
